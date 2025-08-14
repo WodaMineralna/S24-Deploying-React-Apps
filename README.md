@@ -5,14 +5,14 @@ Practice code for Section 24 - Deploying React Apps, part of the course "React -
 This project covers
 - Production build and deployment
 - Hosting configuration and environment variables
-Project type
-- Based on a guided project
+  
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
 - JavaScript (ES6+)
 - Build tool - Create React App
-- Deployment
 ## How to Run
 
 ```bash
