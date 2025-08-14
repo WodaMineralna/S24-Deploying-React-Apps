@@ -2,7 +2,7 @@
 
 Practice code for Section 24 - Deploying React Apps, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Production build and deployment
 - Hosting configuration and environment variables
   
