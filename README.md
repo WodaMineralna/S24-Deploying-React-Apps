@@ -12,6 +12,7 @@ Implemented as part of a guided course project, with additional features and cus
 ## Tech Stack
 - React
 - JavaScript (ES6+)
+- Firebase
 - Build tool - Create React App
 ## How to Run
 
